@@ -1,0 +1,2 @@
+## Adding a new file in the puppet branch 
+print {"Inside Puppet Branch")
